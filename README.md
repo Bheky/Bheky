@@ -1,8 +1,8 @@
-## 👋 Hi there, I'm Bheki - aka [Bheki](https://github.com/Bheky) 
+## 👋 Hi there, I'm Bheki - aka [Bheky](https://github.com/Bheky) 
 
 ## Connect with me:
 
-## Latest Projects
+## 📗Latest Projects
 
 ## I'm a final-year Beng in Engineering student specialising in medical engineering and tech at the University of York. 
 
